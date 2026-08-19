@@ -2,7 +2,7 @@
 
 Personal portfolio site of **Gaurav**, a backend-focused Computer Science undergraduate (B.Tech IT, IIEST Shibpur, Class of 2027). Built to give recruiters a quick, visual summary of my experience, projects, and skills.
 
-🔗 **Live site:** -
+🔗 **Live site:** https://gaurav-sng.github.io/portfolio/
 
 ## About
 
